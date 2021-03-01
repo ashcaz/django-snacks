@@ -1,5 +1,7 @@
 # Lab: 26 Intro to Django
 
+[link to PR](https://github.com/ashcaz/django-snacks/pull/1)
+
 ## Overview
 
 The first words you see on the Django website are
